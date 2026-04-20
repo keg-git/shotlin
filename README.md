@@ -27,3 +27,5 @@
         - stations
             - date
             - hits and misses
+            - record hits and misses as 0s and 1s in an integer on each station (long or reg not sure yet)
+            - record pair data in a string or character array using X / \ O as markers for pairs when taken
